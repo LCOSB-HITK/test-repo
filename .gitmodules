@@ -1,0 +1,3 @@
+[submodule "helper-sw"]
+	path = helper-sw
+	url = https://github.com/LCOSB-HITK/helper-sw.git
